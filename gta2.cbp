@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gta2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="gta2" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="alleg" />
+		</Linker>
+		<Unit filename="Ball.cpp" />
+		<Unit filename="Ball.h" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.h" />
+		<Unit filename="Car.cpp" />
+		<Unit filename="Car.h" />
+		<Unit filename="Copcar.cpp" />
+		<Unit filename="Copcar.h" />
+		<Unit filename="Form.cpp" />
+		<Unit filename="Form.h" />
+		<Unit filename="Gecko.cpp" />
+		<Unit filename="Gecko.h" />
+		<Unit filename="Man.cpp" />
+		<Unit filename="Man.h" />
+		<Unit filename="Taxi.cpp" />
+		<Unit filename="Taxi.h" />
+		<Unit filename="World.cpp" />
+		<Unit filename="World.h" />
+		<Unit filename="Zcx5.cpp" />
+		<Unit filename="Zcx5.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="timer.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

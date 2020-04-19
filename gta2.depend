@@ -1,0 +1,388 @@
+# depslib dependency file v1.0
+1366054388 source:d:\dokumenty karola\c++\gta2 class, non-man\cworld.cpp
+	"CWorld.h"
+
+1366054388 d:\dokumenty karola\c++\gta2 class, non-man\cworld.h
+
+1366056646 source:d:\dokumenty karola\c++\gta2 class, non-man\main.cpp
+	<allegro.h>
+	<math.h>
+	"CCar.h"
+	"CWorld.h"
+
+1366054388 d:\dokumenty karola\c++\gta2 class, non-man\ccar.h
+	<allegro.h>
+
+1366054455 source:d:\dokumenty karola\c++\gta2 class, non-man\ccar.cpp
+	<math.h>
+	"CCar.h"
+	<allegro.h>
+
+1366221077 source:d:\dokumenty karola\c++\gta2 class\cworld.cpp
+	"CWorld.h"
+
+1366221067 d:\dokumenty karola\c++\gta2 class\cworld.h
+
+1366224551 source:d:\dokumenty karola\c++\gta2 class\main.cpp
+	<allegro.h>
+	<math.h>
+	"CCar.h"
+	"CWorld.h"
+
+1366224776 d:\dokumenty karola\c++\gta2 class\ccar.h
+	<allegro.h>
+
+1366224776 source:d:\dokumenty karola\c++\gta2 class\ccar.cpp
+	<math.h>
+	"CCar.h"
+	<allegro.h>
+
+1366224273 source:d:\dokumenty karola\c++\gta2 class\functions.cpp
+	<allegro.h>
+	"CCar.h"
+	"functions.h"
+
+1366220547 d:\dokumenty karola\c++\gta2 class\functions.h
+
+1368093407 source:d:\dokumenty karola\c++\gta2 objective\cman.cpp
+	"CMan.h"
+
+1368093541 d:\dokumenty karola\c++\gta2 objective\cman.h
+	"CForm.h"
+	"CCar.h"
+
+1366221077 source:d:\dokumenty karola\c++\gta2 objective\cworld.cpp
+	"CWorld.h"
+
+1366221067 d:\dokumenty karola\c++\gta2 objective\cworld.h
+
+1366914830 source:d:\dokumenty karola\c++\gta2 objective\ccar.cpp
+	"CCar.h"
+
+1368093541 d:\dokumenty karola\c++\gta2 objective\ccar.h
+	"CForm.h"
+	"CMan.h"
+
+1366914440 source:d:\dokumenty karola\c++\gta2 objective\main.cpp
+	<allegro.h>
+	<math.h>
+	"CForm.h"
+	"CMan.h"
+	"CCar.h"
+	"CWorld.h"
+
+1366228905 source:d:\dokumenty karola\c++\gta2 objective\cform.cpp
+	"CForm.h"
+
+1366914888 d:\dokumenty karola\c++\gta2 objective\cform.h
+	<allegro.h>
+	<math.h>
+
+1366911232 source:d:\gta2 objective\ccar.cpp
+	"CCar.h"
+
+1368089942 d:\gta2 objective\ccar.h
+	"CForm.h"
+	"CMan.h"
+
+1366911290 d:\gta2 objective\cform.h
+	<allegro.h>
+	<math.h>
+
+1368089942 d:\gta2 objective\cman.h
+	"CForm.h"
+	"CCar.h"
+
+1366225306 source:d:\gta2 objective\cform.cpp
+	"CForm.h"
+
+1368089808 source:d:\gta2 objective\cman.cpp
+	"CMan.h"
+
+1366217478 source:d:\gta2 objective\cworld.cpp
+	"CWorld.h"
+
+1366217468 d:\gta2 objective\cworld.h
+
+1375009232 source:d:\gta2 objective\main.cpp
+	<allegro.h>
+	<math.h>
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Taxi.h"
+	"Copcar.h"
+	"Zcx5.h"
+	"Man.h"
+	"Gecko.h"
+	"Bullet.h"
+
+1375008852 source:d:\gta2 objective\car.cpp
+	"Car.h"
+
+1374866065 d:\gta2 objective\car.h
+	"World.h"
+	"Form.h"
+	"Man.h"
+
+1375009419 d:\gta2 objective\form.h
+	<allegro.h>
+	<math.h>
+	"World.h"
+
+1375008594 d:\gta2 objective\man.h
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Bullet.h"
+
+1375008598 source:d:\gta2 objective\form.cpp
+	"Form.h"
+
+1374946148 d:\gta2 objective\world.h
+	<allegro.h>
+	"Form.h"
+	"Bullet.h"
+
+1375008838 source:d:\gta2 objective\man.cpp
+	"Man.h"
+
+1375007704 source:d:\gta2 objective\world.cpp
+	"World.h"
+	"map.h"
+
+1375008788 source:d:\gta2 objective\taxi.cpp
+	"Taxi.h"
+
+1375008743 d:\gta2 objective\taxi.h
+	"Form.h"
+	"Car.h"
+
+1375008788 source:d:\gta2 objective\copcar.cpp
+	"Copcar.h"
+
+1375008742 d:\gta2 objective\copcar.h
+	"Form.h"
+	"Car.h"
+
+1375008788 source:d:\gta2 objective\zcx5.cpp
+	"Zcx5.h"
+
+1375008745 d:\gta2 objective\zcx5.h
+	"Form.h"
+	"Car.h"
+
+1375009152 source:d:\gta2 objective\gecko.cpp
+	"Gecko.h"
+
+1375008913 d:\gta2 objective\gecko.h
+	"Form.h"
+	"Man.h"
+
+1374864915 d:\gta2 objective\map.h
+
+1374947090 source:d:\gta2 objective\bullet.cpp
+	"Bullet.h"
+
+1374946500 d:\gta2 objective\bullet.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1375007406 d:\gta2 objective\timer.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1374947092 source:d:\c++\gta2 objective\bullet.cpp
+	"Bullet.h"
+
+1374946502 d:\c++\gta2 objective\bullet.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1375009419 d:\c++\gta2 objective\form.h
+	<allegro.h>
+	<math.h>
+	"World.h"
+
+1375952492 d:\c++\gta2 objective\world.h
+	<allegro.h>
+	"Form.h"
+	"Ball.h"
+	"Bullet.h"
+
+1375008598 source:d:\c++\gta2 objective\form.cpp
+	"Form.h"
+
+1375524360 source:d:\c++\gta2 objective\gecko.cpp
+	"Gecko.h"
+
+1375008913 d:\c++\gta2 objective\gecko.h
+	"Form.h"
+	"Man.h"
+
+1375952275 d:\c++\gta2 objective\man.h
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Ball.h"
+	"Bullet.h"
+
+1374866065 d:\c++\gta2 objective\car.h
+	"World.h"
+	"Form.h"
+	"Man.h"
+
+1375952187 source:d:\c++\gta2 objective\main.cpp
+	<allegro.h>
+	<math.h>
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Taxi.h"
+	"Copcar.h"
+	"Zcx5.h"
+	"Man.h"
+	"Gecko.h"
+	"Ball.h"
+	"Bullet.h"
+
+1375008743 d:\c++\gta2 objective\taxi.h
+	"Form.h"
+	"Car.h"
+
+1375008742 d:\c++\gta2 objective\copcar.h
+	"Form.h"
+	"Car.h"
+
+1375008745 d:\c++\gta2 objective\zcx5.h
+	"Form.h"
+	"Car.h"
+
+1375952373 source:d:\c++\gta2 objective\man.cpp
+	"Man.h"
+
+1375008788 source:d:\c++\gta2 objective\taxi.cpp
+	"Taxi.h"
+
+1375952631 source:d:\c++\gta2 objective\world.cpp
+	"World.h"
+	"map.h"
+
+1374864915 d:\c++\gta2 objective\map.h
+
+1375008788 source:d:\c++\gta2 objective\zcx5.cpp
+	"Zcx5.h"
+
+1375439672 source:d:\c++\gta2 objective\car.cpp
+	"Car.h"
+
+1375439768 source:d:\c++\gta2 objective\copcar.cpp
+	"Copcar.h"
+
+1375951930 d:\c++\gta2 objective\ball.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1375951930 source:d:\c++\gta2 objective\ball.cpp
+	"Ball.h"
+
+1386684427 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\ball.cpp
+	"Ball.h"
+
+1386684427 d:\dokumenty karola\projekty\c++\gta2o_08082013\ball.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\form.h
+	<allegro.h>
+	<math.h>
+	"World.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\world.h
+	<allegro.h>
+	"Form.h"
+	"Ball.h"
+	"Bullet.h"
+
+1386684427 d:\dokumenty karola\projekty\c++\gta2o_08082013\bullet.h
+	<allegro.h>
+	<math.h>
+	"Form.h"
+
+1386684427 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\bullet.cpp
+	"Bullet.h"
+
+1386684428 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\car.cpp
+	"Car.h"
+
+1386684428 d:\dokumenty karola\projekty\c++\gta2o_08082013\car.h
+	"World.h"
+	"Form.h"
+	"Man.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\man.h
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Ball.h"
+	"Bullet.h"
+
+1386684428 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\copcar.cpp
+	"Copcar.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\copcar.h
+	"Form.h"
+	"Car.h"
+
+1402518795 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\form.cpp
+	"Form.h"
+
+1386684429 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\gecko.cpp
+	"Gecko.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\gecko.h
+	"Form.h"
+	"Man.h"
+
+1386684429 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\man.cpp
+	"Man.h"
+
+1386684429 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\taxi.cpp
+	"Taxi.h"
+
+1386684429 d:\dokumenty karola\projekty\c++\gta2o_08082013\taxi.h
+	"Form.h"
+	"Car.h"
+
+1386684429 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\world.cpp
+	"World.h"
+	"map.h"
+
+1386684432 d:\dokumenty karola\projekty\c++\gta2o_08082013\map.h
+
+1386684430 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\zcx5.cpp
+	"Zcx5.h"
+
+1386684430 d:\dokumenty karola\projekty\c++\gta2o_08082013\zcx5.h
+	"Form.h"
+	"Car.h"
+
+1386684431 source:d:\dokumenty karola\projekty\c++\gta2o_08082013\main.cpp
+	<allegro.h>
+	<math.h>
+	"World.h"
+	"Form.h"
+	"Car.h"
+	"Taxi.h"
+	"Copcar.h"
+	"Zcx5.h"
+	"Man.h"
+	"Gecko.h"
+	"Ball.h"
+	"Bullet.h"
+

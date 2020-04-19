@@ -1,0 +1,91 @@
+class man
+{
+	string name;
+	double x;
+	double y;
+	double speed;
+	double angle;
+	//short frame;
+	short width;
+	short height;
+	public:
+	man();
+	void go_forward();
+	void go_back();
+	void turn_left();
+	void turn_right();
+	void jump();
+	void shoot();
+	void get_in_car();
+};
+man::man()
+{
+    name = "Gecko";
+    x = 400;
+    y = 400;
+    speed = 0.75;
+}
+
+void man::go_forward()
+{
+     map_x+=(speed)*-sin((angle)*(PI/128));
+     map_y+=(speed)*cos((angle)*(PI/128));
+     if (map_x < (screen_w/2)) screen_x+=(speed)*-sin((angle)*(PI/128));
+     else if (map_x > (map_w - screen_w / 2)) screen_x+=(speed)*-sin((angle)*(PI/128));
+     else scroll_x+=(speed)*-sin((angle)*(PI/128));
+     if (map_y < (screen_h/2)) screen_y+=(speed)*cos((angle)*(PI/128));
+     else if (map_y > (map_h - screen_h / 2)) screen_y+=(speed)*cos((angle)*(PI/128));
+     else scroll_y+=(speed)*cos((angle)*(PI/128));
+}
+void man::go_back()
+{
+     map_x+=(speed)*sin((angle)*(PI/128));
+     map_y+=(speed)*-cos((angle)*(PI/128));
+     if (map_x < (screen_w/2)) screen_x+=(speed)*sin((angle)*(PI/128));
+     else if (map_x > (map_w - screen_w / 2)) screen_x+=(speed)*sin((angle)*(PI/128));
+     else scroll_x+=(speed)*sin((angle)*(PI/128));
+     if (map_y < (screen_w/2)) screen_y+=(speed)*-cos((angle)*(PI/128));
+     else if (map_y > (map_h - screen_h / 2)) screen_y+=(speed)*-cos((angle)*(PI/128));
+     else scroll_y+=(speed)*-cos((angle)*(PI/128));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+class car
+{
+	string name;
+	double x;
+	double y;
+	double max_speed;
+	double acceleration;
+	double handling;
+	short width;
+	short height;
+	public:
+	car();
+	void get_out_from_car();
+	void go_forward_right();
+	void go_forward_left();
+	void go_forward();
+	void go_back();
+	void go_back_left();
+	void go_back_right();
+	void turn_left();
+	void turn_right();
+	void brake();
+};
+car::car()
+{
+    name = "Taxi";
+    x = 300;
+    y = 300;
+}
